@@ -4,7 +4,7 @@ email: emiranda@willamette.edu
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "This is my professional portfolio!"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Comedian, Bilingual, Graduate Student"
 meta_author: Miranda Edward
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Ed-Word Meeranduh
   location: Location
   social: Around the Web
   credits: Credits
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1600 Pennsylvania Ave, NW
+  - line: Washington, DC 20500
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
