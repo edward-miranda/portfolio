@@ -32,13 +32,13 @@ color:
 
 # Footer settings
 footer:
-  copyright: Edward Miranda
+  copyright: Edward
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
+social:
 #  - title: twitter
 #    url: http://twitter.com/jekyllrb
 #  - title: facebook
