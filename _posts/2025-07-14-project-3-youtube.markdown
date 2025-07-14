@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2025-07-14
 img: content.png
 alt: conent-creator
 project-date: May 2025
