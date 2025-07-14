@@ -4,7 +4,8 @@ email: emiranda@willamette.edu
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "A professional portfolio for Edward Miranda"
 keywords: "semiconductors, data science, data engineering, python, sql, aws, s3, TOAD datapoint, scripthost"
-skills: <table>
+skills:
+<table>
   <tr>
     <td>Python</td>
     <td>Data Science</td>
