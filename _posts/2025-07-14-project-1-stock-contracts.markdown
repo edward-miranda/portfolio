@@ -5,7 +5,7 @@ date: 2025-7-14
 img: stocks.png
 alt: stock-market
 project-date: June 2025
-client: Start Bootstrap
+client: Citizens of the United States of America
 category: Data Engineering
 description: The focus of this project is to understand what relationships may exist between a public company's stock price and being awarded a government contract.
 ---
