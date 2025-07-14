@@ -6,7 +6,7 @@ description: "A professional portfolio for Edward Miranda"
 keywords: "semiconductors, data science, data engineering, python, sql, aws, s3, TOAD datapoint, scripthost"
 skills:
     <div class="row">
-      <div class="col-md-2">
+      <div class="col-md-2 offset col-md-6">
         <p>Python<br>SQL<br>R.</p>
       </div>
       <div class="col-md-2">
