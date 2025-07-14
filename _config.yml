@@ -1,10 +1,10 @@
 # Site settings
-title: Ed-Word's Professional Portfolio
+title: Edward Miranda - Professional Portfolio
 email: emiranda@willamette.edu
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "This is my professional portfolio!"
-keywords: "your keywords, separated by commas"
-skills: "Comedian, Bilingual, Graduate Student"
+description: "A professional portfolio for Edward Miranda"
+keywords: "semiconductors, data science, data engineering, python, sql, aws, s3, TOAD datapoint, scripthost"
+skills: "SQL, Python, R, Data Engineering, ETL, Bilingual"
 meta_author: Miranda Edward
 
 # Google webmaster tools
@@ -38,22 +38,24 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+   - title: linkedin
+     url: http://www.linkedin.com/in/mirandaedward
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1600 Pennsylvania Ave, NW
-  - line: Washington, DC 20500
+#  - line: 1600 Pennsylvania Ave, NW
+  - line: Cornelius, OR 97113
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
