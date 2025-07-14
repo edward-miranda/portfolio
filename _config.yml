@@ -5,18 +5,12 @@ url: https://github.com/jeromelachaud/freelancer-theme
 description: "A professional portfolio for Edward Miranda"
 keywords: "semiconductors, data science, data engineering, python, sql, aws, s3, TOAD datapoint, scripthost"
 skills:
-<table>
-  <tr>
-    <td>Python</td>
-    <td>Data Science</td>
-    <td>ETL</td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td>Data Engineering</td>
-    <td>Data Pipelining</td>
-  </tr>
-</table>
+  - Coding: Python
+    Concept: Data Science
+    Skill: ETL
+  - Coding: SQL
+    Concept: Data Engineering
+    Skill: Data Pipelining
 # "SQL, Python, R, Data Engineering, ETL, Bilingual"
 meta_author: Miranda Edward
 
